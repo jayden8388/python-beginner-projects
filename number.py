@@ -1,4 +1,4 @@
-while guess < 10:
+
 guess= input("enter number here"):
 x = 9
 
